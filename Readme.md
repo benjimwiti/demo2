@@ -24,3 +24,10 @@ pushing branch to github; git push -u(--set-upstream) branchname;or git push ori
 #5th change
 Pull Requests-PRs.
 
+#6th change
+its actually quite easy. 
+it's a merging request; requesting the main branch to pull in the branch;
+
+
+
+
