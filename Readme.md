@@ -18,5 +18,9 @@ tab fill function; also fills from any part of the word to be filled
 Merging of the branch
 first check the differences; use git diff nameOfBranch.
 to merge locally; git merge nameOfBranch.
-merging on github;
+merging on github; not just yet.
+pushing branch to github; git push -u(--set-upstream) branchname;or git push origin adding-html.
+
+#5th change
+Pull Requests-PRs.
 
