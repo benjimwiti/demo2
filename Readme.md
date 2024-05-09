@@ -28,6 +28,15 @@ Pull Requests-PRs.
 its actually quite easy. 
 it's a merging request; requesting the main branch to pull in the branch;
 
+#7th change
+Undoing the changes from git
+git reset HEAD~1 == unstages the previous(~1) commit
+git log == shows a list of all commits,
+            you could then copy the hash 🤷 and run
+            git reset hashValue == unstages those commits
+git reset --hard hash == deletes changes that point onwards
+
+
 
 
 
