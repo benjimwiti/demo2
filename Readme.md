@@ -36,6 +36,11 @@ git log == shows a list of all commits,
             git reset hashValue == unstages those commits
 git reset --hard hash == deletes changes that point onwards
 
+#Updating clones
+git branch -m ma main
+git fetch origin
+git branch -u origin/main main
+git remote set-head origin -a
 
 
 
