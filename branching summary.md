@@ -2,6 +2,7 @@ CLONING TIC TAC TOE; https://github.com/karwanjiru/tic-tac-toe/branches;
   git clone https bentictactoe;
 
 ADDING THE BRANCH TO THE REMOTE REPOSITORY
+  git push origin benji
   git push -u origin HEAD;
   git; package manager i think;
   push; operation or function;
