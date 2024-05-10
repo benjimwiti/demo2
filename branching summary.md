@@ -19,6 +19,12 @@ ADDING THE BRANCH TO THE REMOTE REPOSITORY
   git pull origin main<branch> ; get changes made to main branch;
   git push origin benny<branch>
   
-  
+git push origin HEAD;  To push to the branch of the same name on the remote; 
+research line above;
+git branch -a;to list all branches
+git branch --set-upstream-to origin/benny;
+
+
+    
   
   
