@@ -19,6 +19,11 @@ ADDING THE BRANCH TO THE REMOTE REPOSITORY
   git branch -a; after loading the changes you can view new branches; 
   git pull origin main<branch> ; get changes made to main branch;
   git push origin benny<branch>
+
+
+  #DELETING BRANCHES
+  remotely; git push origin --delete <branch>
+  locally; git branch -d <branch>
   
 git push origin HEAD;  To push to the branch of the same name on the remote; 
 research line above;
