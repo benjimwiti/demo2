@@ -44,5 +44,7 @@ git remote set-head origin -a
 
 https://github.com/codeSTACKr/markdown-crash-course = **STYLE UP YOUR MARKDOWN**
 
-
+#deleting folders and files in github
+involves tracking the main branch; delete from your local branch and then push the changes
+git rm -r <folder/file name> ;
 
