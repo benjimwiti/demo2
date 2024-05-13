@@ -19,11 +19,11 @@ CTRL+SHIFT+P to open command palette in VS Code
 
 Type `markdown all in one` *ensure u have the markdown all in one extension* `create table of content`
 
-[![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml)
-](https://shields.io/badges/dynamic-xml-badge)
-
-[![Static Badge](https://img.shields.io/badge/_Ben's_github_profile-check_it_out-indigo?style=flat&logo=accusoft&logoColor=#acdde7&logoSize=64x64&labelColor=steelpink)
+[![Static Badge](https://img.shields.io/badge/BENJI'S%20GIT%20PROFILE-check%20it%20out-pink?style=for-the-badge&logo=4chan&logoColor=red&logoSize=auto&labelColor=%23000)
 ](https://github.com/benjimwiti)
+[![Static Badge](https://img.shields.io/badge/make%20your%20first%20badge-shields.io-blue?style=for-the-badge&logo=shieldsdotio&logoColor=%23b744b8&logoSize=auto&labelColor=%23000&color=%23b744b8)
+](https://shields.io/)
+
 ---
 ---
 # CLONING TIC TAC ~~TOE~~
@@ -184,8 +184,8 @@ Objective **;** understand the reply given for the command below ;
 plain image
 ![Just a plain image](./img/plain-image.jpg)
 
-*clicking on image below should take you to gratisography.com page where you can download whacky images freely.*
-[![Just a plain image](./img/plain-image.jpg)](https://gratisography.com/)
+*clicking on image below should take you to gratisography.com page where you can download whacky images freely.* **literary**
+[![Just a plain image](./img/linktogratisography.jpg)](https://gratisography.com/)
 
  
 # Quick check list
